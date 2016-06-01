@@ -1,0 +1,28 @@
+@import "partials/reset";
+
+
+#inputContainer {
+
+  background-color: lighten(dodgerblue, 20%);
+}
+
+
+#forecastDiv {
+
+  background-color: lighten(pink, 5%);
+}
+
+#tempContainer {
+
+  background-color: lighten(darkseagreen, 10%);
+}
+
+#windinessDiv {
+
+  background-color: lighten(cyan, 40%);
+}
+
+#cloudinessDiv {
+
+  background-color: floralwhite;
+}
